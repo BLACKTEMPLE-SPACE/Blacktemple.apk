@@ -1,6 +1,6 @@
 ![App Screenshot](img/beta1.png)
 
-# 🏊 BLACKTEMPLE APP v1.0.1
+# 🏊 BLACKTEMPLE APP v1.2.2
 
 [![Download](img/dwandroid.png)](https://github.com/BLACKTEMPLE-SPACE/blacktemple_app/releases))
 
